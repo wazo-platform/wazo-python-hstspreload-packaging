@@ -1,10 +1,10 @@
-Format: http://www.debian.org/doc/packaging-manuals/Copyright 1-2019 The Wazo Authors  (see the AUTHORS file)
-Upstream-Name: hyper
-Source: https://github.com/Lukasa/hyper.git
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: hstspreload
+Source: https://github.com/python-http/hstspreload.git
 
 Files: *
-Copyright: 2014 Cory Benfield, Google Inc
-License: MIT
+Copyright: 2019, Andrey Kislyuk & Seth Michael Larson
+License: BSD-3-clause
 
 Files: debian/*
 Copyright: 2019 The Wazo Authors  (see the AUTHORS file)
