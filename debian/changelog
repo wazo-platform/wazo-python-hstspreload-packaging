@@ -1,3 +1,9 @@
+wazo-python-hstspreload-packaging (2019.9.3-5) wazo-dev-buster; urgency=medium
+
+  * use pybuild
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Fri, 13 Sep 2019 13:51:26 -0400
+
 wazo-python-hstspreload-packaging (2019.9.3-4) wazo-dev-buster; urgency=medium
 
   * Remove python 2.7 from the debian control
