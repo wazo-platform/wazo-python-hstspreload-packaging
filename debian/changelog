@@ -1,3 +1,9 @@
+wazo-python-hstspreload-packaging (2019.9.3-7) wazo-dev; urgency=medium
+
+  * rebuild
+
+  -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 22 Jan 2020 23:17:49 +0100
+
 wazo-python-hstspreload-packaging (2019.9.3-6) wazo-dev-stretch; urgency=medium
 
   * override dh_auto_clean
