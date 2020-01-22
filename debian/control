@@ -15,3 +15,4 @@ Depends: ${misc:Depends},
          ${python3:Depends}
 Description: HTTP/2 Client for Python.
  .
+ Chromium HSTS Preload list as a Python package
